@@ -1,2 +1,2 @@
 # Matdisk
-Kumulan code
+Kumpulan code program setiap pertemuan
