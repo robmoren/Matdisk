@@ -1,0 +1,26 @@
+var angka = new Date().getDay()
+
+switch (angka){
+    case 0:
+        console.log("Minggu") ;
+        break ;
+    case 1 :
+        console.log("Senin") ;
+        break ;
+    case 2 :
+        console.log("Selasa") ;
+        break ;
+    case 3 :
+        console.log("rabu") ;
+        break ;
+    case 4 :
+        console.log("Kamsi") ;
+        break ;
+    case 5 :
+        console.log("Jumat") ;
+        break ;
+    case 6 :
+        console.log("Sabtu") ;
+        break ;
+
+}
